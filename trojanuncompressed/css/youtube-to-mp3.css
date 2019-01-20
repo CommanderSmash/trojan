@@ -1,0 +1,14 @@
+#makediv.ytd-watch{
+    padding-top:10px;
+    overflow: auto;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 6px;
+}
+@media (min-width: 657px){
+  ytd-watch[theater] #makediv.ytd-watch{
+    margin-right:24px
+  }
+}
+iframe #percentageText svg, .buttonTitle {
+    display: none!important;
+}

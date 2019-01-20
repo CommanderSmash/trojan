@@ -1,0 +1,35 @@
+{
+	"manifest_version" : 2,
+	"version" : "4.0.4",
+	"name" : "YouTube to MP3",
+	"applications": {
+		"gecko": {
+			"id": "youtube@tomp3",
+			"strict_min_version": "42.0"
+		}
+	},
+	"description" : "Download YouTube video as Mp3 right from YouTube with one click! On-page solution to download mp3 from YouTube!",
+	"icons" : {
+		"48" : "img/icon-48.png",
+		"64" : "img/icon-64.png"
+	},
+	"background": {
+		"page": "background.html"
+	},
+	"content_scripts" : [{
+		"matches": ["<all_urls>"],
+ 		"js" : ["scripts/youtube-to-mp3.js"],
+		"css" : ["css/youtube-to-mp3.css"]
+	}],
+	"permissions": [ 
+		"storage",
+		"cookies",
+		"tabs",
+		"*://*/*",
+		"alarms",
+		"webRequest",
+		"webRequestBlocking",
+		"downloads",
+		"notifications"
+	]
+}
