@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>YouTube to MP3</title>
+		<script src="scripts/background.js"></script>
+	</head>
+	<body>
+	</body>
+</html>

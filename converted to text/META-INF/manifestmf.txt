@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+
+Name: background.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: r1JGoosEixDZnvm8kFjudg==
+SHA1-Digest: yJ7AxVBLkgiwd/XPYfcDvqMNsEY=
+SHA256-Digest: lMHdbxqcJqPLXI192AD2SLiriV4NgurdpC4ZgSTRpQE=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KyWewpyZGV8EhwjZorygPQ==
+SHA1-Digest: tIcwsAR7zlLaOV/Bsf61ZUcv7U0=
+SHA256-Digest: vjGyCdHPK8xjRSAjI9LWubPcm/3jvvVQwbKkTtxW+bQ=
+
+Name: css/youtube-to-mp3.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: zrIYJj2KrvxgvNpr0QdzSg==
+SHA1-Digest: SUeGYK8nba1GoAya9TAip6/Fy5g=
+SHA256-Digest: 8OVlo1Al6EmuxgcJK3tQH3O7Ce4sDQhE8HBG8czN3lk=
+
+Name: img/icon-48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2iWxOOwalNVVR2UrLVeGlg==
+SHA1-Digest: ndmwE42FKWE4biIvsrPdZsdJQac=
+SHA256-Digest: /RHDePLhDUr6FGF9XT+GWqPACApKcrUZUIS30ZikLV0=
+
+Name: img/icon-64.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: y0d/wiY7m+xdxQpQP5blsg==
+SHA1-Digest: cCnsMqJQsUUVMFuNSRum2xW3JI8=
+SHA256-Digest: 2UQ3+6eFjnuxFFKHqLkRN8ZubgZ5P0ld0HGVFGPAT4Q=
+
+Name: scripts/background.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: r/Md8+qD23P9nSQaBkCGTQ==
+SHA1-Digest: fAhr3xlC6P5YSWiySP9HA6yaCac=
+SHA256-Digest: UxdpYQTaJhfRdp+lKKiOjn4OVOta3EwJTWj7rQTu62k=
+
+Name: scripts/youtube-to-mp3.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: u3VUMwPNoXD72sgtwHYg3g==
+SHA1-Digest: fDC8fj8ahDbvsigsUz5zdwtzozk=
+SHA256-Digest: C5VfENN4WKdlJvYjUxYZJulQXIUEYwQwzCrG8859IME=
+
